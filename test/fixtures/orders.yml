@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  merchant: one
+  amount: 9.99
+  created_at: 2023-08-26 23:22:29
+
+two:
+  merchant: two
+  amount: 9.99
+  created_at: 2023-08-26 23:22:29

@@ -1,0 +1,3 @@
+DisbursementWorker:
+  cron: '0 7 * * *'  # Every day at 7 am
+  class: 'DisbursementWorker'
